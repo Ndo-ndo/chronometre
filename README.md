@@ -1,0 +1,1 @@
+Développement d'une application web de chronomètre utilisant HTML, CSS et JavaScript. Cette interface simple permet aux utilisateurs de démarrer, mettre en pause et réinitialiser un compteur précis affichant heures, minutes, secondes et millisecondes. 
